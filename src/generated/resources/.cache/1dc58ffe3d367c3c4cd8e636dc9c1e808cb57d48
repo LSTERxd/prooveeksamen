@@ -1,0 +1,4 @@
+// 1.20.1	2023-11-16T09:35:32.5299479	Tags for minecraft:block mod id examplemod
+62a43283d42950602656a523a72b73e52ed8e1ac data/examplemod/tags/blocks/metal_detector_valuables.json
+8dc3e042a9db2081ab41a66df9cc5a21ce9b14a9 data/minecraft/tags/blocks/mineable/pickaxe.json
+8dc3e042a9db2081ab41a66df9cc5a21ce9b14a9 data/minecraft/tags/blocks/needs_iron_tool.json

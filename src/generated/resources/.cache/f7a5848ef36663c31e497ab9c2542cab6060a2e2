@@ -1,0 +1,7 @@
+// 1.20.1	2023-11-16T09:27:36.6973928	Block States: examplemod
+356d831efce4191bc96a7bbea5ec3dec59226243 assets/examplemod/blockstates/steel_block.json
+86da100ab7a1e3bcc1195d9808aa403e2ea43dd5 assets/examplemod/blockstates/steel_ore.json
+65676ff2806d54aa75fff26a03748b00858b43ed assets/examplemod/models/block/steel_block.json
+e1c541673672308238acc699ec1f392d507d9747 assets/examplemod/models/block/steel_ore.json
+14d4a7560bdebc3923e8e02321a1ddcf19fb9cfa assets/examplemod/models/item/steel_block.json
+4858490a2a93bfdf406c33de3f181d22dc959857 assets/examplemod/models/item/steel_ore.json

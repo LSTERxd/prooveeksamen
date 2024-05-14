@@ -1,0 +1,4 @@
+// 1.20.1	2023-11-16T10:05:50.53032	Registries
+d98a6a1cdb058a5e978a3ea201ffad3c73369ba9 data/examplemod/forge/biome_modifier/add_steel_ore.json
+02cb93bd3cc15ed191bcc648a48e5e39102e5425 data/examplemod/worldgen/configured_feature/steel_ore.json
+46e30deb85026d692a7109c2f9a907425f490277 data/examplemod/worldgen/placed_feature/steel_ore_placed.json

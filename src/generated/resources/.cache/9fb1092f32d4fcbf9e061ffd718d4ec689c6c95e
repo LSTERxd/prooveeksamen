@@ -1,0 +1,9 @@
+// 1.20.1	2023-11-16T09:27:36.7023929	Recipes
+9ea991f1c329e16c2a99111c4d69b4b97b384d53 data/examplemod/advancements/recipes/misc/steel_block.json
+b2c47f284421dc0e23ecc6445e0f07bc915566f9 data/examplemod/advancements/recipes/misc/steel_ingot.json
+65e41581827754942f9bcebbe276abc79fdb8758 data/examplemod/advancements/recipes/misc/steel_ingot_from_blasting_raw_steel.json
+bdf4df6cfe1c5254900b6ac1f6f4ab705ede3f82 data/examplemod/advancements/recipes/misc/steel_ingot_from_smelting_raw_steel.json
+a2f2accf1efe1b2db4e28780646a3cfbbb25ca09 data/examplemod/recipes/steel_block.json
+da04ef97b896ced063fa08db8a58919defaa0541 data/examplemod/recipes/steel_ingot.json
+d6e5583395f516b99fe632c960c3bec0fbae410f data/examplemod/recipes/steel_ingot_from_blasting_raw_steel.json
+d6406da3a50030850ec572db6066c3d0700892af data/examplemod/recipes/steel_ingot_from_smelting_raw_steel.json
